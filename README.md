@@ -1,5 +1,11 @@
 ### Boston House Pricing Prediction
 
+```
+Prepared the dataset from scikit learn library.
+Analyzed the correlation between features.
+Trained the data using Machine Learning algorithm.
+```
+
 ### Software And Tools Requirements
 
 1. [Github Account](https://github.com)
